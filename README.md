@@ -14,3 +14,8 @@ module.exports = {
     preset: '@rncli/expo-ts'
 }
 ```
+
+## Help
+```
+$ rncli generate help
+```
