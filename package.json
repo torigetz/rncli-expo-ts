@@ -1,9 +1,9 @@
 {
-  "name": "@rncli/expo-ts",
+  "name": "rncli-expo-ts",
   "version": "0.0.1",
   "description": "Preset for rncli",
   "main": "index.js",
-  "repository": "https://github.com/tori-getz/rncli-expo-ts",
+  "repository": "https://github.com/torigetz/rncli-expo-ts",
   "author": "torigetz",
   "license": "MIT",
   "dependencies": {
