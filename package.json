@@ -1,6 +1,6 @@
 {
   "name": "rncli-expo-ts",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Preset for rncli",
   "main": "index.js",
   "repository": "https://github.com/torigetz/rncli-expo-ts",

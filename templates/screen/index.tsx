@@ -20,4 +20,4 @@ const getData = async () => ({
 
 })
 
-const __name__ = withLoading(getData)(__name__Screen);
+export const __name__ = withLoading(getData)(__name__Screen);
