@@ -3,7 +3,7 @@
 Preset for <b>rncli</b>
 
 ## Install
-```
+```sh
 $ npm install -g @rncli/expo-ts
 ```
 
@@ -16,6 +16,6 @@ module.exports = {
 ```
 
 ## Help
-```
-$ rncli generate help
+```sh
+$ rncli generate help # get all help for this preset
 ```
